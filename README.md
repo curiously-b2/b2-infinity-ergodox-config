@@ -8,8 +8,8 @@ This is relatively mature at this point; I started iterating on this layout in O
 Note:  As of 2017-06-18, the main kiibohd controller trunk does not compile for the Infinity ErgoDox.  Here's what I found worked:
 * Controller repo:  Use the 'old' branch
 * KLL subrepo: Check out commit 2aed1e677e6d3a11f8b0548a9de1f6baf4f471da
-
-In addition, I also changed the ergodox.bash build script in controller/Keyboard:
+* Put this repo in controller/kll/layouts/
+* Modify the controller/Keyboards/ergodox.bash build script:
 
 ```
 DefaultMap="b2-infinity-ergodox-config/baselineColemak lcdFuncMap"
