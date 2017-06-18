@@ -1,0 +1,23 @@
+Name = qwertyOverlay;
+Version = 0.3;
+Author = "b2 (2017)";
+KLL = 0.3c;
+
+U"T" : U"T";
+U"R" : U"R";
+U"E" : U"E";
+U"G" : U"G";
+U"F" : U"F";
+U"D" : U"D";
+U"S" : U"S";
+U"Y" : U"Y";
+U"U" : U"U";
+U"I" : U"I";
+U"O" : U"O";
+U"P" : U"P";
+U"J" : U"J";
+U"K" : U"K";
+U"L" : U"L";
+U"SEMICOLON" : U"SEMICOLON";
+U"N" : U"N";
+

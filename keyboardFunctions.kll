@@ -1,0 +1,13 @@
+Name = keyboardFunctions;
+Version = 0.3;
+Author = "b2 (2017)";
+KLL = 0.3c;
+
+U"ESC" : toggleKbdProtocol();
+U"EQUALS" : flashMode();
+U"E" : ledControl( 4, 15, 0 );
+U"Q" : U"LOCK1";
+U"D" : ledControl( 3, 15, 0 );
+U"C" : ledControl( 5, 0, 0 );
+U"FUNCTION6" : toggleKbdProtocol();
+U"MINUS" : flashMode();

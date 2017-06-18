@@ -1,0 +1,26 @@
+Name = navigationKeys;
+Version = 0.3;
+Author = "b2 (2017)";
+KLL = 0.3c;
+
+U"T" : U"PAGEUP";
+U"R" : U"END";
+U"E" : U"UP";
+U"W" : U"HOME";
+U"G" : U"PAGEDOWN";
+U"F" : U"RIGHT";
+U"D" : U"DOWN";
+U"S" : U"LEFT";
+U"HOME" : U"INSERT";
+U"7" : U"PRINTSCREEN";
+U"8" : U"SCROLLLOCK";
+U"9" : U"PAUSE";
+U"Y" : U"PAGEUP";
+U"U" : U"HOME";
+U"I" : U"UP";
+U"O" : U"END";
+U"H" : U"PAGEDOWN";
+U"J" : U"LEFT";
+U"K" : U"DOWN";
+U"L" : U"RIGHT";
+U"PAGEUP" : U"INSERT";
